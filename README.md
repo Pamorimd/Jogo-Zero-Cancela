@@ -9,9 +9,6 @@ Este projeto é um programa em Python que solicita ao usuário a entrada de núm
 - [Como Usar](#como-usar)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Introdução
 
@@ -121,6 +118,6 @@ Você será solicitado a inserir números. O programa processará esses números
 ----->Regras para Zeros: Permite a inserção de no máximo três zeros consecutivos. Mais de três zeros consecutivos são desconsiderados na soma.
 
 ## Tecnologias Utilizadas
->Python
+Python
 
 
