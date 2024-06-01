@@ -114,13 +114,13 @@ python nome_do_script.py
 
 Você será solicitado a inserir números. O programa processará esses números conforme as regras estabelecidas e exibirá os resultados finais, incluindo a soma dos números considerados, a contagem de números válidos e a contagem de números desconsiderados.
 
-Funcionalidades
+## Funcionalidades
 ----->Soma Condicional: Soma os números inseridos pelo usuário.
 ----->Contagem de Números Válidos: Conta quantos números válidos foram inseridos.
 ----->Contagem de Números Desconsiderados: Conta quantos números foram desconsiderados com base nas regras.
 ----->Regras para Zeros: Permite a inserção de no máximo três zeros consecutivos. Mais de três zeros consecutivos são desconsiderados na soma.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 >Python
 
 
